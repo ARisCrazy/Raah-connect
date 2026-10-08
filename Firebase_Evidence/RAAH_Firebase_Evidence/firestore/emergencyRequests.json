@@ -1,0 +1,117 @@
+[
+  {
+    "documentId": "7DIxcUVhFYbrIA90TG1O",
+    "fields": {
+      "patientId": "Q0CNNTi1VjdvTgbwn6gYZezB0H63",
+      "hospitalId": null,
+      "latitude": 18.527066,
+      "emergencyType": "ACCIDENT",
+      "forWhom": "SELF",
+      "assignmentId": null,
+      "longitude": 73.9552693,
+      "createdAt": "2026-10-07T14:06:55.005Z",
+      "ambulanceId": "A001",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "documentId": "Mu9AxQxNXSPDGuU4iZtC",
+    "fields": {
+      "patientId": "Q0CNNTi1VjdvTgbwn6gYZezB0H63",
+      "hospitalId": null,
+      "latitude": 18.5287824,
+      "emergencyType": "CARDIAC",
+      "forWhom": "OTHER",
+      "assignmentId": null,
+      "longitude": 73.9555056,
+      "createdAt": "2026-10-07T16:26:06.630Z",
+      "ambulanceId": "A001",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "documentId": "Ng22SM4xvhbLLlaJekSl",
+    "fields": {
+      "patientName": "Priyank Nagori",
+      "patientMedicalHistory": "Blood Pressure",
+      "patientId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+      "latitude": 18.5038777,
+      "forWhom": "SELF",
+      "assignmentId": null,
+      "patientAge": 22,
+      "emergencyType": "CARDIAC",
+      "longitude": 73.9038324,
+      "createdAt": "2026-10-07T18:12:04.670Z",
+      "driverId": "CZakyuV53LSvnqPcqBZn0QkFeqA2",
+      "ambulanceId": "A001",
+      "acceptedAt": "2026-10-07T19:33:12.286Z",
+      "hospitalSelectionStartedAt": "2026-10-07T19:33:27.641Z",
+      "hospitalSelectionMode": "AUTO",
+      "hospitalId": "H001",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "documentId": "Qe67EqQrg7PrLNNDERiA",
+    "fields": {
+      "patientId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+      "hospitalId": null,
+      "latitude": 18.5032794,
+      "emergencyType": "CARDIAC",
+      "forWhom": "SELF",
+      "assignmentId": null,
+      "longitude": 73.9027833,
+      "createdAt": "2026-10-07T15:59:00.822Z",
+      "ambulanceId": "A001",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "documentId": "djayg6M50KRTPbxC8mD2",
+    "fields": {
+      "patientId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+      "hospitalId": null,
+      "latitude": 18.5031453,
+      "emergencyType": "ACCIDENT",
+      "forWhom": "OTHER",
+      "assignmentId": null,
+      "longitude": 73.9029262,
+      "createdAt": "2026-10-07T14:29:20.482Z",
+      "ambulanceId": "A001",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "documentId": "mo0Nj3q7026DhhDjitHN",
+    "fields": {
+      "patientId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+      "hospitalId": null,
+      "latitude": 18.5032762,
+      "emergencyType": "ACCIDENT",
+      "ambulanceId": null,
+      "forWhom": "OTHER",
+      "assignmentId": null,
+      "longitude": 73.9028007,
+      "createdAt": "2026-10-07T15:59:28.017Z",
+      "status": "CANCELLED"
+    }
+  },
+  {
+    "documentId": "vuFkGOxxwKfhzE362Cid",
+    "fields": {
+      "patientName": "Priyank Nagori",
+      "patientMedicalHistory": "Blood Pressure",
+      "patientId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+      "latitude": 18.5031111,
+      "forWhom": "SELF",
+      "assignmentId": null,
+      "hospitalId": null,
+      "patientAge": 22,
+      "emergencyType": "CARDIAC",
+      "longitude": 73.9029222,
+      "createdAt": "2026-10-07T17:43:55.530Z",
+      "ambulanceId": "A001",
+      "status": "COMPLETED"
+    }
+  }
+]

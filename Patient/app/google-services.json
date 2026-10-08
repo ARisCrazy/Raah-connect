@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425202011774",
+    "project_id": "raahconnect-5",
+    "storage_bucket": "raahconnect-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425202011774:android:3c11d3656924628606522f",
+        "android_client_info": {
+          "package_name": "com.raahconnect.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhK3I3ieeG-lwchn_MqoB2GSs-aBWPYnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425202011774:android:8cdce91c5ce4119606522f",
+        "android_client_info": {
+          "package_name": "com.raahconnect.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhK3I3ieeG-lwchn_MqoB2GSs-aBWPYnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

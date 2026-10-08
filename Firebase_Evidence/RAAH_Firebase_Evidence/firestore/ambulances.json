@@ -1,0 +1,36 @@
+[
+  {
+    "documentId": "A001",
+    "fields": {
+      "driverId": "CZakyuV53LSvnqPcqBZn0QkFeqA2",
+      "vehicleNumber": "MH12AB1234",
+      "hubId": "H001",
+      "type": "BLS",
+      "currentEmergencyId": null,
+      "status": "OFFLINE",
+      "operationalStatus": "AVAILABLE"
+    }
+  },
+  {
+    "documentId": "A002",
+    "fields": {
+      "hubId": "H001",
+      "vehicleNumber": "MH14XY5678",
+      "currentEmergencyId": null,
+      "status": "OFFLINE",
+      "operationalStatus": "AVAILABLE"
+    }
+  },
+  {
+    "documentId": "A003",
+    "fields": {
+      "hubId": "H001",
+      "operationalStatus": "AVAILABLE",
+      "vehicleNumber": "MH12AC2928",
+      "currentEmergencyId": null,
+      "type": "BLS",
+      "status": "OFFLINE",
+      "createdAt": "2026-10-07T16:46:39.127Z"
+    }
+  }
+]

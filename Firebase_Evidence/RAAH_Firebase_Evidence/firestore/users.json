@@ -1,0 +1,75 @@
+[
+  {
+    "documentId": "40PsxYwuAYYK7AVS7RWZfpc5cz53",
+    "fields": {
+      "role": "PATIENT",
+      "phone": "+917276044965",
+      "name": "Priyank Nagori",
+      "email": "nagoripriyank@gmail.com",
+      "createdAt": "2026-10-07T12:15:00.138Z",
+      "medicalHistory": "Blood Pressure",
+      "age": 22
+    }
+  },
+  {
+    "documentId": "AEolDR8OLIfCkJtDBzpQNHbqQyB3",
+    "fields": {
+      "name": "Dispatcher1",
+      "email": "dispatcher@raahconnect.com",
+      "role": "DISPATCHER"
+    }
+  },
+  {
+    "documentId": "CZakyuV53LSvnqPcqBZn0QkFeqA2",
+    "fields": {
+      "name": "Test Driver",
+      "email": "driver@test.com",
+      "phone": "9999999999",
+      "role": "driver"
+    }
+  },
+  {
+    "documentId": "HWpTZKQoCIQGHbF0uAs2RixZZfS2",
+    "fields": {
+      "hubId": "H001",
+      "role": "HUB_ADMIN",
+      "phone": "",
+      "name": "Hub Admin",
+      "email": "admin@test.com",
+      "createdAt": "2026-10-07T16:04:28.592Z"
+    }
+  },
+  {
+    "documentId": "Q0CNNTi1VjdvTgbwn6gYZezB0H63",
+    "fields": {
+      "role": "PATIENT",
+      "phone": "+916123457890",
+      "name": "Tester 1",
+      "email": "tester@gmail.com",
+      "createdAt": "2026-10-07T10:40:16.080Z"
+    }
+  },
+  {
+    "documentId": "gBAG8nwIe1YN7P9nkSKfBOKZ0rH2",
+    "fields": {
+      "role": "DRIVER",
+      "phone": "+917276044965",
+      "name": "Harsh Shah",
+      "email": "harsh@gmail.com",
+      "createdAt": "2026-10-07T16:48:38.915Z",
+      "hubId": "H001",
+      "authorizationStatus": "AUTHORIZED"
+    }
+  },
+  {
+    "documentId": "yztGND9TY8NNdvwue1SCkmN2VAw1",
+    "fields": {
+      "hubId": "H001",
+      "role": "HUB_ADMIN",
+      "phone": "",
+      "name": "Hub Admin",
+      "email": "tester2@driver.com",
+      "createdAt": "2026-10-07T16:45:45.848Z"
+    }
+  }
+]

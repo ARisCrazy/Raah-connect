@@ -1,0 +1,112 @@
+[
+  {
+    "documentId": "H001",
+    "fields": {
+      "address": "Central Pune, Maharashtra",
+      "specializations": [
+        "Emergency Medicine",
+        "Cardiac Care",
+        "Trauma"
+      ],
+      "availableBeds": 24,
+      "latitude": 18.5204,
+      "emergencyStatus": "ACCEPTING",
+      "rating": 4.2,
+      "emergencyDepartment": true,
+      "type": "Prototype",
+      "contact": "Prototype record",
+      "name": "RAAH Prototype General Hospital",
+      "bloodBank": true,
+      "emergencyAvailable": true,
+      "totalBeds": 80,
+      "icu": true,
+      "cardiacCapability": true,
+      "id": "H001",
+      "traumaCapability": true,
+      "longitude": 73.8567,
+      "updatedAt": "2026-10-07T19:14:51.674Z"
+    }
+  },
+  {
+    "documentId": "H002",
+    "fields": {
+      "address": "East Pune, Maharashtra",
+      "specializations": [
+        "Emergency Medicine",
+        "Trauma",
+        "Orthopedics"
+      ],
+      "availableBeds": 12,
+      "latitude": 18.5362,
+      "emergencyStatus": "ACCEPTING",
+      "rating": 4,
+      "emergencyDepartment": true,
+      "type": "Prototype",
+      "contact": "Prototype record",
+      "name": "RAAH Prototype Trauma Centre",
+      "bloodBank": true,
+      "emergencyAvailable": true,
+      "totalBeds": 60,
+      "icu": true,
+      "cardiacCapability": false,
+      "id": "H002",
+      "traumaCapability": true,
+      "longitude": 73.8958,
+      "updatedAt": "2026-10-07T19:14:51.716Z"
+    }
+  },
+  {
+    "documentId": "H003",
+    "fields": {
+      "address": "South Pune, Maharashtra",
+      "specializations": [
+        "Cardiology",
+        "Emergency Medicine",
+        "ICU"
+      ],
+      "availableBeds": 4,
+      "latitude": 18.5018,
+      "emergencyStatus": "LIMITED",
+      "rating": 4.4,
+      "emergencyDepartment": true,
+      "type": "Prototype",
+      "contact": "Prototype record",
+      "name": "RAAH Prototype Cardiac Centre",
+      "bloodBank": false,
+      "emergencyAvailable": true,
+      "totalBeds": 40,
+      "icu": true,
+      "cardiacCapability": true,
+      "id": "H003",
+      "traumaCapability": false,
+      "longitude": 73.8636,
+      "updatedAt": "2026-10-07T19:14:51.751Z"
+    }
+  },
+  {
+    "documentId": "H004",
+    "fields": {
+      "address": "West Pune, Maharashtra",
+      "specializations": [
+        "Emergency Medicine"
+      ],
+      "availableBeds": 0,
+      "latitude": 18.5167,
+      "emergencyStatus": "NOT_ACCEPTING",
+      "rating": 3.8,
+      "emergencyDepartment": true,
+      "type": "Prototype",
+      "contact": "Prototype record",
+      "name": "RAAH Prototype Hospital - Offline",
+      "bloodBank": false,
+      "emergencyAvailable": false,
+      "totalBeds": 50,
+      "icu": true,
+      "cardiacCapability": true,
+      "id": "H004",
+      "traumaCapability": true,
+      "longitude": 73.8067,
+      "updatedAt": "2026-10-07T19:14:51.799Z"
+    }
+  }
+]
